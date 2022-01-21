@@ -2,7 +2,7 @@ import React, { useMemo } from "react"
 import {Container, Profile, Welcome, UserName} from './styles'
 
 import Toggle from "../Toggle/index"
-import Switch from "react-switch"
+
 
 import emojis from "../../utils/emojis"
 
